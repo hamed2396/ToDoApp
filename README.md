@@ -30,22 +30,22 @@ Architect your app using the MVVM (Model-View-ViewModel) pattern, leveraging Vie
 Compose Navigation simplifies screen navigation in Jetpack Compose apps, offering a type-safe and declarative approach to defining navigation routes and handling backstack management
 ## Features Implemented:
 
-# **see all your task**
-![seetask](https://github.com/hamed2396/ToDoApp/assets/86206868/c93e6f58-6654-40b6-adf9-c8395cbd9b08)
+# **see all your task using lazy column with animation**
+![seetask](https://github.com/hamed2396/ToDoApp/assets/86206868/6deb73c0-50ef-4f73-b827-956e4a8a8060)
 
 # **add task**
-![add](https://github.com/hamed2396/ToDoApp/assets/86206868/d1997789-c59e-4afc-b468-ff3f21b65851)
+![add](https://github.com/hamed2396/ToDoApp/assets/86206868/b11e262c-c343-4047-acaa-154a54f0c0a1)
 
 # **sort your task by priority**
-![sort](https://github.com/hamed2396/ToDoApp/assets/86206868/e498b7e7-8842-409a-b008-36497f8b5222)
+![sort](https://github.com/hamed2396/ToDoApp/assets/86206868/e94e094c-ecae-40e7-a0c4-43aa8ab39a0d)
 
 
 # **search tasks**
-![search](https://github.com/hamed2396/ToDoApp/assets/86206868/0ed099d1-c21d-4a07-8c12-72230094418f)
+![search](https://github.com/hamed2396/ToDoApp/assets/86206868/810851e5-3702-45e3-9b5a-c9cb38fa24c2)
 
 
 # **swipe to delete tasks**
-![swipe](https://github.com/hamed2396/ToDoApp/assets/86206868/965a1d3c-753b-4ad2-b355-4f87dd75d3fe)
+![swipe](https://github.com/hamed2396/ToDoApp/assets/86206868/a893b6f3-06cd-4654-9364-1670a574e10c)
 
 # **dark theme support**
-![dark](https://github.com/hamed2396/ToDoApp/assets/86206868/443d00d2-5e41-429e-a4a2-4723d455b180)
+![dark](https://github.com/hamed2396/ToDoApp/assets/86206868/fc2e22e0-9ca6-4ee6-b136-06d97c68b4ec)
