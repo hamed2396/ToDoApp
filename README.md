@@ -28,6 +28,10 @@ Architect your app using the MVVM (Model-View-ViewModel) pattern, leveraging Vie
 
 ### *** Compose Navigation***:
 Compose Navigation simplifies screen navigation in Jetpack Compose apps, offering a type-safe and declarative approach to defining navigation routes and handling backstack management
+
+### ***Material 3***
+Elevate your app's design with the latest in Android UI, offering enhanced components, theming, and motion for a modern user experience.
+
 ## Features Implemented:
 
 # **see all your task using lazy column with animation**
